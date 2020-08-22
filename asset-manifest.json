@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SkillfactoryProjectReactJS/static/css/main.8f471ad5.chunk.css",
+    "main.js": "/SkillfactoryProjectReactJS/static/js/main.d804b0b7.chunk.js",
+    "main.js.map": "/SkillfactoryProjectReactJS/static/js/main.d804b0b7.chunk.js.map",
+    "runtime-main.js": "/SkillfactoryProjectReactJS/static/js/runtime-main.6dd9e841.js",
+    "runtime-main.js.map": "/SkillfactoryProjectReactJS/static/js/runtime-main.6dd9e841.js.map",
+    "static/js/2.ed38ebb7.chunk.js": "/SkillfactoryProjectReactJS/static/js/2.ed38ebb7.chunk.js",
+    "static/js/2.ed38ebb7.chunk.js.map": "/SkillfactoryProjectReactJS/static/js/2.ed38ebb7.chunk.js.map",
+    "index.html": "/SkillfactoryProjectReactJS/index.html",
+    "precache-manifest.77988f1617b638ca1a36e61f5301dc2e.js": "/SkillfactoryProjectReactJS/precache-manifest.77988f1617b638ca1a36e61f5301dc2e.js",
+    "service-worker.js": "/SkillfactoryProjectReactJS/service-worker.js",
+    "static/css/main.8f471ad5.chunk.css.map": "/SkillfactoryProjectReactJS/static/css/main.8f471ad5.chunk.css.map",
+    "static/js/2.ed38ebb7.chunk.js.LICENSE.txt": "/SkillfactoryProjectReactJS/static/js/2.ed38ebb7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SkillfactoryProjectReactJS/static/media/cross.21197298.png",
+    "static/media/userMenuDown.svg": "/SkillfactoryProjectReactJS/static/media/userMenuDown.fe068a57.svg",
+    "static/media/userMenuUp.svg": "/SkillfactoryProjectReactJS/static/media/userMenuUp.3627788a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dd9e841.js",
+    "static/js/2.ed38ebb7.chunk.js",
+    "static/css/main.8f471ad5.chunk.css",
+    "static/js/main.d804b0b7.chunk.js"
+  ]
+}
